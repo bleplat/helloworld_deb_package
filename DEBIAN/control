@@ -1,0 +1,7 @@
+Package: helloworlds-deb-package
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: example <example@example.com>
+Description: Command that displays an hello world.
